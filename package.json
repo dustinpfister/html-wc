@@ -1,0 +1,17 @@
+{
+  "name": "html-wc",
+  "version": "1.0.0",
+  "description": "Count the number of worlds in each html document found in a given path",
+  "main": "index.js",
+  "dependencies": {
+    "html-to-json": "^0.6.0",
+    "node-dir": "^0.1.17",
+    "nopt": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dustin Pfister",
+  "license": "GPL-3.0"
+}
